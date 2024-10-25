@@ -1,5 +1,5 @@
 
-# 32Bit - Toyota Backend Project
+# Cash Register Backend Project
 
 The "cash-register" project is a comprehensive Spring Boot application designed to manage various aspects of a retail system. It is structured as a microservices architecture, ensuring modularity, scalability, and maintainability. Each service within the application focuses on a specific business function, facilitating the smooth operation of a retail environment. The entire application is containerized using Docker and deployed using Docker Compose for easy scalability and management. Additionally, the project includes extensive tests to ensure reliability and logging capabilities for effective monitoring and troubleshooting.
 ## Installation
@@ -7,13 +7,13 @@ The "cash-register" project is a comprehensive Spring Boot application designed 
 Clone the project
 
 ```bash
-  git clone https://github.com/ahmetcaggn/32BitBackendProject.git
+  git clone https://github.com/ahmetcaggn/cash-register-backend.git
 ```
 
 Get into the root direction
 
 ```bash
-  cd 32BitBackendProject
+  cd cash-register-backend
 ```
 
 Compiles the project and packages it into a JAR file.
