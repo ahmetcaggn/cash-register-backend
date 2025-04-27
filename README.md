@@ -40,6 +40,12 @@ You can start the entire project with docker compose
 - Feign Client 
 - Docker
 - Log4J2
+
+## Sample Receipt
+
+![47_page-0001](https://github.com/user-attachments/assets/4b916b62-a4f1-4838-a24b-55ca0e7c34f7)
+
+
 ## API Usage
 ### Authentication Not Required
 
